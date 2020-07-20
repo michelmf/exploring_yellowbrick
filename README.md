@@ -6,7 +6,7 @@ O pacote YellowBrick tem o objetivo facilitar as tarefas de seleção, ajustes d
 
 # Notebooks
 
-Para explorar as possibilidades da ferramenta, três datasets foram explorados:
+Para explorar as possibilidades da ferramenta, três datasets foram utilizados para exemplifcar as possibilidades da ferramenta:
 
 * Classificação: Conjunto de dados do Titanic, onde devemos classificar se uma pessoa sobreviveu ou não ao acidente do titanic a partir dos dados disponíveis.
 
