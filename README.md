@@ -12,5 +12,5 @@ Para explorar as possibilidades da ferramenta, três datasets foram explorados:
 
 * Regressão: Don't Overfit ! II. Competição/Plyaground do Kaggle onde o intuito é explorar técnicas de regressão em um dataset com mais variáveis do que exemplos no conjunto de treinamento.
 
-* Detecção de Anomalias / Modelagem Preditiva): A partir dados de operações de máquinas, verificar se é possível detectar quais características possibilitam a detecção de uma possível falha.
+* Detecção de Anomalias / Modelagem Preditiva: A partir dados de operações de máquinas, verificar se é possível detectar quais características possibilitam a detecção de uma possível falha.
 
