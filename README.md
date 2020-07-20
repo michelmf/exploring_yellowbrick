@@ -10,7 +10,7 @@ Para explorar as possibilidades da ferramenta, três datasets foram utilizados p
 
 * Classificação: 
 
-    * Conjunto de dados do Titanic, onde devemos classificar se uma pessoa sobreviveu ou não ao acidente do titanic a partir dos dados disponíveis.
+    * Titanic - Classificar se uma pessoa sobreviveu ou não ao acidente do titanic a partir dos dados disponíveis.
 
     * House Prices -  Competição/Playground do Kaggle onde o intuito é explorar técnicas de regularização em um dataset com mais variáveis do que exemplos no conjunto de treinamento.
 
