@@ -12,6 +12,6 @@ Para explorar as possibilidades da ferramenta, três datasets foram utilizados p
 
     * Conjunto de dados do Titanic, onde devemos classificar se uma pessoa sobreviveu ou não ao acidente do titanic a partir dos dados disponíveis.
 
-    * Don't Overfit ! II -  Competição/Playground do Kaggle onde o intuito é explorar técnicas de regularização em um dataset com mais variáveis do que exemplos no conjunto de treinamento.
+    * House Prices -  Competição/Playground do Kaggle onde o intuito é explorar técnicas de regularização em um dataset com mais variáveis do que exemplos no conjunto de treinamento.
 
 * Detecção de Anomalias / Modelagem Preditiva: A partir dados de operações de máquinas, verificar se é possível detectar quais características possibilitam a detecção de uma possível falha.
